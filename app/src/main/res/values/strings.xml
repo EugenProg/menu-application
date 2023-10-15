@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menu application</string>
+
+    <string name="dashboard">Dashboard</string>
+    <string name="drivers">Drivers</string>
+    <string name="booking">Booking</string>
+</resources>
